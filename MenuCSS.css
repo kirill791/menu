@@ -1,0 +1,154 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto+Mono&display=swap');
+
+body{
+    background-color: black;
+}
+
+#MenuText{
+    font-family: 'Roboto Mono', monospace;
+    color: rgb(0, 162, 255);
+    text-shadow: 0 0 30px #0084ff;
+    position: absolute;
+    margin-top: 1cm;
+    margin-left: 11cm;
+    font-size: 70px;
+}
+
+#ClockText{
+    font-family: 'Roboto Mono', monospace;
+    color: rgb(0, 162, 255);
+    text-shadow: 0 0 30px #0084ff;
+    position: absolute;
+    margin-top: 4cm;
+    margin-left: 60px;
+    font-size: 50px;
+}
+
+#ClockBtn{
+    background-color: rgb(46, 54, 68);
+    border-radius: 8px;
+    color: rgb(0, 162, 255);
+    text-shadow: 0 0 30px #0084ff;
+    font-family: 'Roboto Mono', monospace;
+    font-size: 30px;
+    position: absolute;
+    margin-top: 6cm;
+    margin-left: 75px;
+}
+
+#ClockBtn:active{
+    background-color: aqua;
+}
+
+#by{
+    position: fixed;
+    top: 1%;
+    left: 38%;
+    font-family: 'Roboto Mono', monospace;
+    color: rgb(0, 162, 255);
+    text-shadow: 0 0 30px #0084ff;
+}
+
+#CalculatorText{
+    font-family: 'Roboto Mono', monospace;
+    color: rgb(0, 162, 255);
+    text-shadow: 0 0 30px #0084ff;
+    position: absolute;
+    margin-top: 4cm;
+    margin-left: 7cm;
+    font-size: 50px; 
+}
+
+#CalculatorBtn{
+    background-color: rgb(46, 54, 68);
+    border-radius: 8px;
+    color: rgb(0, 162, 255);
+    text-shadow: 0 0 30px #0084ff;
+    font-family: 'Roboto Mono', monospace;
+    font-size: 30px;
+    position: absolute;
+    margin-top: 6cm;
+    margin-left: 8cm;
+}
+
+#CalculatorBtn:active{
+    background-color: aqua;
+}
+
+#SnakeText{
+    font-family: 'Roboto Mono', monospace;
+    color: rgb(0, 162, 255);
+    text-shadow: 0 0 30px #0084ff;
+    position: absolute;
+    margin-top: 4cm;
+    margin-left: 17.2cm;
+    font-size: 50px; 
+}
+
+#Snakebtn{
+    background-color: rgb(46, 54, 68);
+    border-radius: 8px;
+    color: rgb(0, 162, 255);
+    text-shadow: 0 0 30px #0084ff;
+    font-family: 'Roboto Mono', monospace;
+    font-size: 30px;
+    position: absolute;
+    margin-top: 6cm;
+    margin-left: 18cm;
+}
+
+#Snakebtn:active{
+    background-color: aqua;
+}
+
+#SliderText{
+    font-family: 'Roboto Mono', monospace;
+    color: rgb(0, 162, 255);
+    text-shadow: 0 0 30px #0084ff;
+    position: absolute;
+    margin-top: 4cm;
+    margin-left: 24cm;
+    font-size: 50px; 
+}
+
+#Sliderbtn{
+    background-color: rgb(46, 54, 68);
+    border-radius: 8px;
+    color: rgb(0, 162, 255);
+    text-shadow: 0 0 30px #0084ff;
+    font-family: 'Roboto Mono', monospace;
+    font-size: 30px;
+    position: absolute;
+    margin-top: 6cm;
+    margin-left: 25cm;
+}
+
+#Sliderbtn:active{
+    background-color: aqua;
+}
+
+.btnSait:hover{
+    border-color: rgb(0, 162, 255);
+}
+
+#ClickerText{
+    font-family: 'Roboto Mono', monospace;
+    color: rgb(0, 162, 255);
+    text-shadow: 0 0 30px #0084ff;
+    position: absolute;
+    margin-top: 4cm;
+    margin-left: 30cm;
+    font-size: 50px; 
+}
+
+#Clickerbtn{
+    background-color: rgb(46, 54, 68);
+    border-radius: 8px;
+    color: rgb(0, 162, 255);
+    text-shadow: 0 0 30px #0084ff;
+    font-family: 'Roboto Mono', monospace;
+    font-size: 30px;
+    position: absolute;
+    margin-top: 6cm;
+    margin-left: 30.5cm;
+}
